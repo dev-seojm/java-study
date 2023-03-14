@@ -10,7 +10,7 @@ public class switch01 {
 		
 		switch(lol) {
 		
-		case sbr :
+		case "1" :
 			System.out.println("시비르입니다.");
 		
 		}
@@ -36,6 +36,6 @@ public class switch01 {
 		}*/
 	}
 
-	practice practice
+	
 
 }

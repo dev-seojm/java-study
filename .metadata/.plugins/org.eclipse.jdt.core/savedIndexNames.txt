@@ -1,19 +1,2 @@
 INDEX VERSION 1.131+/Users/seojeongmin/eclipse-workspace/.metadata/.plugins/org.eclipse.jdt.core
-174111395.index
-497026000.index
-4195888855.index
-1662091117.index
-337006587.index
-1132916126.index
-3832470415.index
-3808632726.index
-2103937589.index
-2473192217.index
-2322782808.index
-4252363470.index
-218988218.index
-1789342534.index
-2195632277.index
 1865797976.index
-2047495724.index
-2367626817.index
