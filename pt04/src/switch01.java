@@ -12,6 +12,7 @@ public class switch01 {
 		
 		case "1" :
 			System.out.println("시비르입니다.");
+			System.out.println("소스 추가 테스");
 		
 		}
 		
